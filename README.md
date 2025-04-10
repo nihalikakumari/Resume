@@ -78,4 +78,4 @@ If you're interested in collaborating or want to discuss ideas around full-stack
 
 ---
 
-_⭐️ Star this repository if you like it or find it helpful!_
+_🤝 Let’s connect, collaborate, and build something amazing together!_
